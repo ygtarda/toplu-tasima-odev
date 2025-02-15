@@ -43,5 +43,9 @@ Mahalle C: 32,36%
 
 En uygun mahalle: Mahalle B (43,68% olasılıkla)
 
+Maliyet-Fayda Analizi:
+Mahalle A - Maliyet: 10,00, Fayda: 7,45
+Mahalle B - Maliyet: 15,00, Fayda: 8,05
+Mahalle C - Maliyet: 12,00, Fayda: 7,75
 ```
 
