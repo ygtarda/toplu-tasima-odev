@@ -19,19 +19,7 @@ Kriterler belirli ağırlıklarla çarpılarak her mahalle için toplam skor hes
 - **Java** (Softmax hesaplamaları ve konsol çıktısı için)
 - **Matematiksel Modelleme** (Softmax fonksiyonu ve ağırlıklı ortalama hesaplamaları)
 
-## 🔧 Kurulum ve Çalıştırma
 
-1. **Projeyi Klonlayın**
-   ```bash
-   git clone https://github.com/ygtarda/softmax-toplu-tasima.git
-   cd softmax-toplu-tasima
-   ```
-2. **Java Derleme ve Çalıştırma**
-   ```bash
-   javac SoftmaxTopluTasima.java
-   java SoftmaxTopluTasima
-   ```
-3. **Sonuçlar Konsola Yazdırılacaktır.**
 
 ## 📊 Örnek Çıktı
 
