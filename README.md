@@ -23,7 +23,7 @@ Kriterler belirli ağırlıklarla çarpılarak her mahalle için toplam skor hes
 
 1. **Projeyi Klonlayın**
    ```bash
-   git clone https://github.com/kullaniciadi/softmax-toplu-tasima.git
+   git clone https://github.com/ygtarda/softmax-toplu-tasima.git
    cd softmax-toplu-tasima
    ```
 2. **Java Derleme ve Çalıştırma**
@@ -37,14 +37,11 @@ Kriterler belirli ağırlıklarla çarpılarak her mahalle için toplam skor hes
 
 ```
 Mahallelerin Seçilme Olasılıkları:
-Mahalle A: 40.25%
-Mahalle B: 35.12%
-Mahalle C: 24.63%
+Mahalle A: 23,97%
+Mahalle B: 43,68%
+Mahalle C: 32,36%
 
-En uygun mahalle: Mahalle A (40.25% olasılıkla)
+En uygun mahalle: Mahalle B (43,68% olasılıkla)
+
 ```
-
-## 📽️ Video Açıklaması
-
-Bu projenin nasıl çalıştığını ve Softmax algoritmasının nasıl uygulandığını anlatan video bağlantısını buraya ekleyiniz.
 
